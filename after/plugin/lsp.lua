@@ -41,9 +41,7 @@ require('mason-lspconfig').setup({
   ensure_installed = {
 	"tsserver",
 	"eslint",
-	"sumneko_lua",
-	"dartls",
-	"dockerls",
+	"dockerls"
 	"docker_compose_language_service",
 	"golangci_lint_ls",
 	"pylsp"

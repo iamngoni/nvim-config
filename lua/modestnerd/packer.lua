@@ -56,9 +56,6 @@ return require('packer').startup(function(use)
 	-- Playground
 	use({'nvim-treesitter/playground'})
 
-	-- Harpoon
-	use({'ThePrimeagen/harpoon'})
-
 	-- Undo Tree
 	use({'mbbill/undotree'})
 
